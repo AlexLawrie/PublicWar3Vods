@@ -1,0 +1,109 @@
+[17-Feb-2019 04:18:00 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/adminlogin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/adminlogin.php on line 66
+[17-Feb-2019 04:18:06 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindashboard.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindashboard.php on line 25
+[17-Feb-2019 04:18:32 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/adminlogin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/adminlogin.php on line 66
+[17-Feb-2019 04:18:38 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindashboard.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindashboard.php on line 25
+[17-Feb-2019 04:18:53 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindashboard.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindashboard.php on line 25
+[17-Feb-2019 04:18:55 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletegame.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletegame.php on line 102
+[17-Feb-2019 04:19:02 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindashboard.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindashboard.php on line 25
+[17-Feb-2019 04:19:30 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/adminlogin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/adminlogin.php on line 66
+[17-Feb-2019 04:20:09 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/adminlogin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/adminlogin.php on line 66
+[17-Feb-2019 04:20:14 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/adminlogin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/adminlogin.php on line 66
+[17-Feb-2019 04:20:16 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/adminlogin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/adminlogin.php on line 66
+[17-Feb-2019 04:20:17 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/adminlogin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/adminlogin.php on line 66
+[17-Feb-2019 04:51:44 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/adminlogin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/adminlogin.php on line 66
+[17-Feb-2019 04:53:14 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/adminlogin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/adminlogin.php on line 66
+[17-Feb-2019 04:53:21 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/adminlogin.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/adminlogin.php on line 66
+[17-Feb-2019 04:54:01 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindashboard.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindashboard.php on line 25
+[17-Feb-2019 04:54:20 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletegame.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletegame.php on line 102
+[17-Feb-2019 04:54:35 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletegame.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletegame.php on line 102
+[17-Feb-2019 04:59:16 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletetournament.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletetournament.php on line 103
+[17-Feb-2019 05:02:25 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletegame.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletegame.php on line 102
+[17-Feb-2019 05:03:31 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletegame.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletegame.php on line 102
+[17-Feb-2019 05:03:39 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletegame.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletegame.php on line 102
+[17-Feb-2019 05:04:12 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletegame.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletegame.php on line 103
+[17-Feb-2019 05:04:48 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletegame.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletegame.php on line 102
+[17-Feb-2019 05:05:51 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletetournament.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletetournament.php on line 103
+[17-Feb-2019 11:17:00 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletegame.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletegame.php on line 102
+[18-Feb-2019 04:24:30 CST6CDT] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/war3vods/public_html/adminarea/admindeletegame.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/adminarea/admindeletegame.php on line 102
+[18-Feb-2019 04:39:45 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/war3vods/public_html/adminarea/adminaddtournament.php on line 74
