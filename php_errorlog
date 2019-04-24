@@ -1,0 +1,5 @@
+[24-Dec-2018 10:42:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'js' (T_STRING), expecting ',' or ';' in /home/war3vods/public_html/php/functions.php on line 20
+[28-Dec-2018 06:10:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function ListOfTournamentsOnGoing() in /home/war3vods/public_html/Tournaments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/war3vods/public_html/Tournaments.php on line 21
